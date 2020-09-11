@@ -1,0 +1,17 @@
+Equipo 4: Diana, José Salvador, Edmundo
+
+Base de datos: https://github.com/resbaz/data/tree/master/marriage
+
+La base de datos que utilizaré es el censo de matrimonios en los Estados Unidos, que corresponde al Decennial Census (de 1960 a 2000) y al American Community Survey (de 2001 a 2012).
+
+PREGUNTAS
+
+1.- ¿Cómo es el porcentaje de matrimonios contra el procentaje de divorcios a lo largo de los años? ¿Hay algún año en el que los divorcios sean más que los matrimonios?
+2.- De acuerdo a los datos, ¿hay alguna clase social que se case más que otra? (poor, mid, rich)
+3.- De acuerdo a los datos, ¿existe un grupo de personas que se case más acorde a su escolaridad? ¿Qué sucede con los divorcios?
+4.- Quién se casa más en el grupo de edad al que está dirigido el censo, ¿hombres o mujeres?
+5.- A lo largo de los años, ¿qué etnias se casan más en determinadas épocas? (White, Black, Hisp)
+6.- ¿En qué año ocurrieron más matrimonios? ¿En cuál ocurrieron menos?
+7.- ¿En qué año ocurrieron más divorcios? ¿En cuál ocurrieron más?
+8.- Obtener el promedio de matrimonios para ambos sexos a lo largo de los años. ¿Cómo se compara este promedio con el número de matrimonios en años arbitrarios?
+9.- ¿Se presentan más matrimonios cuando el cónyuge presenta un trabajo fijo o cuando se encuentra en un trabajo no fijo (< 50 semanas al año del censo)?
